@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Book of Digital Marketing Ideas'
 subheading: Find the latest and updated information of different categories
 mainpitch:
-  title: Why Choose
+  title: Why Choose?
   description: >
     Fastidious Torrone is the world famous blog that provide multiple
     information to the audience.
