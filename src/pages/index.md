@@ -1,20 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Fastidious Torrone Digital Marketing Company
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Book of Digital Marketing Ideas'
+subheading: Find the latest and updated information of different categories
 mainpitch:
-  title: Why Kaldi
+  title: Why Choose
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Fastidious Torrone is the world famous blog that provide multiple
+    information to the audience.
+description: Fastidious Torrone is the ultimate of data reading lovers that want
+  to read different ideas and latest information. Please stay updated with
+  latest information and book mark our website for any information. Audience can
+  also book our website url for daily visit.
 intro:
   blurbs: []
   heading: What we offer
